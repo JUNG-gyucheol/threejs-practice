@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  overflow: scroll;
+}
+
+.webgl {
+  position: fixed;
+  top: 0;
+  left: 0;
+  outline: none;
+  /* background: linear-gradient(45deg, #000046 0%, #1cb5e0 100%); */
+  background: #000;
+}
+
+.container {
+  position: relative;
+  color: white;
+  height: 100vh;
+}
